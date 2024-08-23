@@ -1,0 +1,8 @@
+# Bazel generated symlinks
+bazel-*
+MODULE.*
+
+vendor
+
+.DS_Store
+.idea/
